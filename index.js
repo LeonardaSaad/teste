@@ -1,3 +1,3 @@
 const m = "mercando pago"
-
-console.log(m)
+const n = "mercadinho"
+console.log(m,n)
